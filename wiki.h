@@ -1,5 +1,5 @@
-#ifndef HEAD_CALLS_H
-#define HEAD_CALLS_H
+#ifndef HEAD_WIKI_H
+#define HEAD_WIKI_H
 
 #ifdef __cplusplus
 extern "C"{
